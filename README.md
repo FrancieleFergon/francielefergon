@@ -1,6 +1,6 @@
 ### Sobre mim 🌟
 
-Sou a Franciele, estudante de **Análise e Desenvolvimento de Sistemas** na **FIAP**, em formação para me tornar **Desenvolvedora Full Stack**  .
+Sou a Franciele, estudante de **Análise e Desenvolvimento de Sistemas** na **FIAP**, em formação para me tornar **Desenvolvedora Full Stack**.
 Focada em aprender, evoluir e aplicar meus conhecimentos em projetos práticos
 
 ---
