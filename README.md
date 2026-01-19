@@ -23,11 +23,7 @@ Focada em aprender, evoluir e aplicar meus conhecimentos em projetos práticos
 - UML  
 
 #### Design
-- UI / UX  
-
-#### Ferramentas
-- Git  
-- GitHub  
+- UI / UX    
 
 ---
 
